@@ -1,5 +1,11 @@
 # Daria Diplom PDF scans
 
+## Recommended Version To Use 
+
+Download the [optimized file for most general usage (3.4MB, 600DPI, Average PDF compression)](https://github.com/chvdr/dary-diploma/blob/master/DPI_600/2024-06-17_Daria_Diplom_SOU_COMPRESSED.pdf)
+
+If this suits your needs, please go straight and download it _(link above)_. You may skip everything else below. If not, I am afraid, you need to follow below.
+
 ## Folder Contents / Tree 
 
 ### Intro
@@ -14,7 +20,9 @@ There is only one document everywhere, it's available in non-compressed, compres
 
 You should choose which variant to pick/download depending on the quality of the picture (Dary's portrait on the first diplom page) and on the file size. 
 
-### Quality/Filesize Table (TO DO)
+### Quality/Filesize Table 
+
+This table should help in choosing best quality/size options as per your needs 
 
 |Filename|Resolution|Compress-ratio|File Size (Megabites)|
 |--------|----------|--------------|---------|
@@ -25,8 +33,8 @@ You should choose which variant to pick/download depending on the quality of the
 | [2024-06-17_Daria_Diplom_SOU_COMPRESSED.pdf](https://github.com/chvdr/dary-diploma/blob/master/DPI_600/2024-06-17_Daria_Diplom_SOU_COMPRESSED.pdf) | 600 | Average | 3.4 |
 |[2024-06-17_Daria_Diplom_SOU_supersmall.pdf](https://github.com/chvdr/dary-diploma/blob/master/DPI_600/2024-06-17_Daria_Diplom_SOU_supersmall.pdf)|600|Highest|1.2|
 
+## Versions
 
+- **Current [6/17/2024]** - *v01-RC07-Beta* - First version proposed, it contains all the files in 600/1200 DPI with different values of the PDF compression. 
 
-### Recommended Version To Use (TO DO)
-
-
+- Initial - just empty repo with only files _(no any outfit)_.
