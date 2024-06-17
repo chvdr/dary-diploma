@@ -20,7 +20,7 @@ You should choose which variant to pick/download depending on the quality of the
 |--------|----------|--------------|---------|
 |[dary_dipl_sou_1200dpi.pdf](https://github.com/chvdr/dary-diploma/blob/master/DPI_1200/dary_dipl_sou_1200dpi.pdf)|1200|NO|27|
 |[dary_dipl_sou_1200dpi_COMPRESSED.pdf](https://github.com/chvdr/dary-diploma/blob/master/DPI_1200/dary_dipl_sou_1200dpi_COMPRESSED.pdf)|1200|Medium|12|
-[|dary_dipl_sou_1200dpi_SUPRCMPRSSD.pdf](https://github.com/chvdr/dary-diploma/blob/master/DPI_1200/dary_dipl_sou_1200dpi_SUPRCMPRSSD.pdf)|1200|High|4.1|
+|[dary_dipl_sou_1200dpi_SUPRCMPRSSD.pdf](https://github.com/chvdr/dary-diploma/blob/master/DPI_1200/dary_dipl_sou_1200dpi_SUPRCMPRSSD.pdf)|1200|High|4.1|
 |--------|----------|--------------|---------|----|
 
 
