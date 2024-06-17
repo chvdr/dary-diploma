@@ -16,6 +16,12 @@ You should choose which variant to pick/download depending on the quality of the
 
 ### Quality/Filesize Table (TO DO)
 
+|Filename|Resolution|Compress-ratio|File Size (Megabites)|Link|
+|--------|----------|--------------|---------|----|
+|dary_dipl_sou_1200dpi.pdf|1200|NO|27|https://github.com/chvdr/dary-diploma/blob/master/DPI_1200/dary_dipl_sou_1200dpi.pdf|
+|dary_dipl_sou_1200dpi_COMPRESSED.pdf|1200|Medium|12|https://github.com/chvdr/dary-diploma/blob/master/DPI_1200/dary_dipl_sou_1200dpi_COMPRESSED.pdf|
+|dary_dipl_sou_1200dpi_SUPRCMPRSSD.pdf|1200|High|4.1|https://github.com/chvdr/dary-diploma/blob/master/DPI_1200/dary_dipl_sou_1200dpi_SUPRCMPRSSD.pdf|
+
 ### Recommended Version To Use (TO DO)
 
 
